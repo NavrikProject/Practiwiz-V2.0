@@ -1,0 +1,23 @@
+.options-box {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-top: none;
+  width: calc(100% - 2px);
+  z-index: 1000;
+}
+
+.option {
+  width: calc(33.33% - 2px);
+  padding: 8px 12px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.option:hover {
+  background-color: #f0f0f0;
+}

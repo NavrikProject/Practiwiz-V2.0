@@ -1,0 +1,189 @@
+/*register start*/
+.regis_background {
+  padding: 9rem 0px 7rem 0px;
+}
+.iuhieiuihaw_left.sticky-top {
+  top: 8% !important;
+}
+.regis_background .iuhieiuihaw_left h3 {
+  line-height: 1.5;
+  font-size: 30px;
+}
+.regis_background .iuhieiuihaw_left h5 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.regis_background .iuhieiuihaw_left ul li {
+  list-style: none;
+}
+.regis_background .iuhieiuihaw_left ul li i {
+  color: var(--main-orange-color);
+  margin-right: 14px;
+  font-size: 1.4rem;
+}
+.regis_background .iuhieiuihaw_left ul li p a {
+  text-decoration: underline !important;
+}
+.regis_background .iuhieiuihaw_right {
+  border-radius: 25px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid #d8d5d5;
+  margin: 0 1rem;
+}
+.regis_background .iuhieiuihaw_right .uherrr_text p {
+  font-size: 1rem;
+  color: var(--main-header-text-color);
+}
+.regis_background .iuhieiuihaw_right .uherrr_text p a {
+  text-decoration: underline !important;
+  color: var(--main-orange-color) !important;
+}
+.iuhieiuihaw_right .form-label {
+  font-weight: 700;
+  line-height: 1.28;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+.iuhieiuihaw_right .form-control {
+  padding: 1rem 1rem;
+  border-radius: 10px;
+}
+.iuhieiuihaw_right .form-control::-moz-placeholder {
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.44;
+}
+.iuhieiuihaw_right .form-control::placeholder {
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.44;
+}
+.iuhieiuihaw_right .form-check-label {
+  font-size: 0.8rem;
+  line-height: 1.57;
+  color: #000;
+}
+.iuhieiuihaw_right .form-check-label a {
+  text-decoration: underline !important;
+  color: var(--main-orange-color) !important;
+  font-weight: 600;
+}
+.iuhieiuihaw_right .form-check-input {
+  border-radius: 3px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  border: solid 1px var(--main-orange-color);
+}
+.iuhieiuihaw_right .form-check-input:checked {
+  background-color: var(--main-orange-color);
+}
+.csfvgdtrfs i {
+  color: var(--main-orange-color);
+  font-size: 1.4rem;
+  right: 1rem;
+  top: 2.9rem;
+}
+.radio-label {
+  margin-right: 10px;
+}
+.csfvgdtrfs .radio-label i {
+  font-size: 1.2rem;
+}
+.dieyhr_iuhfiderr .btn-main {
+  background: transparent !important;
+  color: var(--main-light-black-text-color);
+}
+form .dieyhr_iuhfiderr .btn-main:first-child {
+  border: solid 3px #4064ac;
+  margin-right: 1.4rem;
+}
+.step h4 {
+  font-size: 1.2rem;
+}
+.step h4 img {
+  width: 1.8rem;
+  border: 2px solid #1b759a;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px -3px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.iti--allow-dropdown {
+  display: block !important;
+}
+
+.iti--allow-dropdown #phone {
+  width: 100%;
+  border-radius: 10px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border: 1px dashed #acaeaf !important;
+}
+
+.dieyhr_iuhfiderr .btn-main:last-child {
+  border: solid 3px #cf2c1f;
+}
+.uidherrrr_anchor {
+  text-decoration: underline !important;
+  color: var(--main-orange-color) !important;
+}
+.regis_background .iuhieiuihaw_right .ihduwfr_form_wrapper .btn-main {
+  width: 100%;
+}
+
+.tagify__input {
+  font-family: var(--font-family-lato);
+}
+
+.fiurhetit_tag_input .form-control {
+  padding: 0.5rem 0.5rem !important;
+}
+
+.digheirer h4 {
+  position: relative;
+  color: #858585;
+}
+
+.digheirer h4:before {
+  position: absolute;
+  content: "";
+  width: 4rem;
+  height: 2px;
+  left: 39%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: #858585;
+}
+
+.cihseriniewr #rdo1,
+#rdo4,
+#rdo7 {
+  position: absolute;
+}
+
+.digheirer h4:after {
+  position: absolute;
+  content: "";
+  width: 4rem;
+  height: 2px;
+  right: 30%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: #858585;
+}
+
+/*register end*/
+
+/* new css*/
+.input-with-icon {
+  position: relative;
+}
+
+.input-with-icon input[type="file"] {
+  padding-left: 30px; /* Adjust as needed */
+}
+
+.input-with-icon i {
+  position: absolute;
+  left: 5px; /* Adjust as needed */
+  top: 50%;
+  transform: translateY(-50%);
+}
