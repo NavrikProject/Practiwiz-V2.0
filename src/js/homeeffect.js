@@ -3,6 +3,8 @@
 // import "react-circular-progressbar/dist/styles.css";
 // import hljs from "highlight.js";
 // import "highlight.js/styles/github.css";
+import $ from "jquery"; // Import jQuery
+// Now you can use '$' in your code
 
 const loadScripts = async () => {
   // Load jQuery

@@ -208,11 +208,9 @@ const Home = () => {
                   <button className="btn me-2 btn-main">
                     Register Your Institute
                   </button>
-
                   <button className="btn btn-main">Learn More</button>
                 </div>
               </div>
-
               <div className="col-lg-5">
                 <div className="cuierr_image position-relative">
                   <img
@@ -221,7 +219,6 @@ const Home = () => {
                     className="uidghegbr__uerww dieghrytretew_image position-absolute"
                     style={{ width: "25%" }}
                   />
-
                   <img
                     src="images/architecture-independence-palace-ho-chi-minh-city-min.jpg"
                     className="dertgrtyf_image position-relative"
