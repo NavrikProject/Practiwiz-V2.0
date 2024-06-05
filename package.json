@@ -1,7 +1,7 @@
 {
   "name": "practiwise",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://ashy-cliff-04533660f.5.azurestaticapps.net/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
